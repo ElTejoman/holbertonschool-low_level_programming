@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . | git commit -m "program with c, executable with a script" | git push
+git add . ; git commit -m "program with c, executable with a script" ; git push
